@@ -2,6 +2,9 @@ AddCSLuaFile()
 
 simple_weapons.Include("Convars")
 
+
+-- mosf of the code here is chatgpt , what you gonna do about it ? change it ? do it then lol idc
+
 SWEP.Base = "simple_base"
 
 SWEP.PrintName = "The Loose Cannon"
@@ -45,7 +48,7 @@ SWEP.NPCData = {
 
 list.Add("NPCUsableWeapons", {class = "simple_hl2_smg1", title = "Simple Weapons: " .. SWEP.PrintName})
 
--- ACT_VM_RECOIL support
+-- ACT_VM_RECOIL support ,
 local transitions = {
     [ACT_VM_PRIMARYATTACK] = ACT_VM_RECOIL1,
     [ACT_VM_RECOIL1] = ACT_VM_RECOIL3,
