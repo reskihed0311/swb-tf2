@@ -16,7 +16,7 @@ SWEP.UseHands = true
 SWEP.ViewModelTargetFOV = 60
 
 SWEP.ViewModel = Model("models/weapons/tf2_reshed/r_righthand.mdl")
-SWEP.WorldModel = Model("models/weapons/tf2_reshed/r_w_cleanerscarbine.mdl")
+SWEP.WorldModel = Model("models/weapons/tf2_reshed/r_w_righthand.mdl")
 
 SWEP.HoldType = "ar2"
 SWEP.LowerHoldType = "passive"
