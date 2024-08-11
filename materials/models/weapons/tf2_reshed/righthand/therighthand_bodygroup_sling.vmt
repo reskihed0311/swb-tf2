@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\tf2_reshed\righthand/TheRightHand_bodygroup_sling"
+	"$bumpmap"     "models\weapons\tf2_reshed\righthand\normal"
+	"$nocull" 1
+
+	"$cloakPassEnabled" "1"
+}

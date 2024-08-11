@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\tf2_reshed\righthand/TheRightHand_wood"
+	"$bumpmap"     "models\weapons\tf2_reshed\righthand\normal"
+	"$nocull" 1
+	"$basemapalphaphongmask" "1.5"
+	"$phong" "1.5"
+	"$phongexponent" "300"
+	"$phongboost" "5"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+	"$cloakPassEnabled" "1"
+}
