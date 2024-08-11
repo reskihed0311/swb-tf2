@@ -4,6 +4,7 @@ SWEP.Base = "simple_base_scoped"
 
 SWEP.PrintName = "Classic Sniper"
 SWEP.Category = "reshed's Simple Weapons: TF2"
+SWEP.SubCategory = "Sniper Rifles"
 
 SWEP.CSMuzzleFlashes = true
 

@@ -9,6 +9,7 @@ SWEP.Base = "simple_base"
 
 SWEP.PrintName = "The Loose Cannon"
 SWEP.Category = "reshed's Simple Weapons: TF2"
+SWEP.SubCategory = "Grenade Launchers"
 
 SWEP.Slot = 2
 

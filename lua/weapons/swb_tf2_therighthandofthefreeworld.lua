@@ -4,6 +4,7 @@ SWEP.Base = "simple_base"
 
 SWEP.PrintName = "The Right Hand Of The Free World"
 SWEP.Category = "reshed's Simple Weapons: TF2"
+SWEP.SubCategory = "Battle Rifles"
 
 SWEP.CSMuzzleFlashes = true
 

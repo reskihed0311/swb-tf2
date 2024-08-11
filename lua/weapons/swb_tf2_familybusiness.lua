@@ -4,6 +4,7 @@ SWEP.Base = "simple_base"
 
 SWEP.PrintName = "Family Business"
 SWEP.Category = "reshed's Simple Weapons: TF2"
+SWEP.SubCategory = "Shotguns"
 
 SWEP.CSMuzzleFlashes = true
 
