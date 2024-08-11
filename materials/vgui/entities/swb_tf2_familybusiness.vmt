@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/swb_tf2_familybusiness"
+	"$translucent" 1
+}
