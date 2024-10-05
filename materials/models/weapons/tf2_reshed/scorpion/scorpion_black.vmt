@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+//Main
+	$basetexture					"models\weapons\tf2_reshed\scorpion/Scorpion_Black_D"
+	$bumpmap						"models\weapons\tf2_reshed\scorpion/Scorpion_N"
+
+//Other
+	$lightwarptexture				"models/lightwarps/weapon_lightwarp"
+	$halflambert					"1"
+	$normalmapalphaphongmask		"1"
+	$glowcolor						"1"
+
+//Phong
+	$phong							"1"
+	$phongexponent					"15"
+	$phongboost						"1"
+	$phongfresnelranges				"[.25 .5 1]"
+
+//Rimlight
+	$rimlight						"1"
+	$rimlightexponent				"4"
+	$rimlightboost					"2"
+
+}
