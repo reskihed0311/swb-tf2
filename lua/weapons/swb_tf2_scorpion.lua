@@ -45,7 +45,7 @@ SWEP.Primary = {
 		Ratio = 0.6
 	},
 
-	Sound = "weapons/doom_sniper_smg.wav",
+	Sound = "weapons/smg_shoot.wav",
 	TracerName = "Tracer"
 }
 
